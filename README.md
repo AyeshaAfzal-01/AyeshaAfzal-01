@@ -17,11 +17,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayesha-afzal-4a0a2b29a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayeshaafzal" height="30" width="40" /></a>
-<a href="https://fb.com/ayeshaafzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayeshaafzal" height="30" width="40" /></a>
+<a href="https://fb.com/AyeshaAfzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayeshaafzal" height="30" width="40" /></a>
 <a href="https://instagram.com/ayesha_afzal_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayeshaafzal-02" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayeshaafzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayeshaafzal" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ayeshaafzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayeshaafzal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayeshaafzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayeshaafzal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayesha_taisee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayeshaafzal" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Ayesha_Afzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayeshaafzal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Ayesha_Afzal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayeshaafzal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
