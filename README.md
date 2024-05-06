@@ -1,3 +1,4 @@
+[![MasterHead]](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNoBH6ZoAcgIUvjYTfm3tcH2TSea0BZSVcRzhXFep7&s)
 <h1 align="center">Hi 👋, I'm Ayesha Afzal</h1>
 <h3 align="center">A passionate Information Technology student from Pakistan</h3>
 <img align= "right" alt= "Coding" width= "400" src= "https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
