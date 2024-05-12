@@ -1,4 +1,5 @@
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s" alt="MasterHead" width="100%">](https://github.com/AyeshaAfzal-01)
+
 <h1 align="center">Hi 👋, I'm Ayesha Afzal</h1>
 <h3 align="center">A passionate Information Technology student from Pakistan</h3>
 <img align= "right" alt= "Coding" width= "400" src= "https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
@@ -17,7 +18,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/ayesha-afzal-4a0a2b29a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayeshaafzal" height="30" width="40" /></a>
 <a href="https://fb.com/ayeshaafzal7861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayeshaafzal" height="30" width="40" /></a>
-<a href="https://instagram.com/ayesha_afzal_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayeshaafzal-02" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayesha_taisee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayeshaafzal" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Ayesha_Afzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayeshaafzal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Ayesha_Afzal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayeshaafzal" height="30" width="40" /></a>
