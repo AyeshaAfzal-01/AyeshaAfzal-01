@@ -1,4 +1,4 @@
-# Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+# Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/>
 I’m [**Ayesha**](https://ayesha-afzal-portfolio.vercel.app/), a developer based in Pakistan.  
 
 I love bringing ideas to life through clean, functional, and creative code. Whether it’s building full-stack projects or experimenting with new tools, I’m always excited to learn and improve.  
