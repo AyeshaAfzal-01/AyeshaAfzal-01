@@ -5,7 +5,7 @@ I love bringing ideas to life through clean, functional, and creative code. Whet
 
 With knowledge of C, C++, Python, and MERN stack development, I enjoy working across different technologies and finding the best way to solve problems.  
 
-Outside of coding, you’ll find me listening to music or drawing random stuff.  
+Outside of coding, you’ll find me listening to music or drawing some random stuff.  
 
 **Fun Facts:**  
 - I enjoy late-night walks when the streets are quiet.  
